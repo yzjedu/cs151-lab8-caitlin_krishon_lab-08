@@ -6,7 +6,7 @@
 # Data In: Number of rolls
 # Data Out: List of sums, total of rolls, and tally of sums
 # Credits: None other than class notes
-
+#55
 # Import random function into program
 import random
 
