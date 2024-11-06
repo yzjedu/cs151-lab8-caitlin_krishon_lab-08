@@ -1,8 +1,7 @@
-ENCRYPTED:
-# Mzagzxodji Yjxphzio
+# Dqrxqofuaz Paogyqzf
 
-* Ymdqz Apgg Ivhz  : 
-* Kvmoizm Apgg Ivhz: 
-* Nopyzio DY: 
+* Pduhq Rgxx Zmyq  : 
+* Bmdfzqd Rgxx Zmyq: 
+* Efgpqzf UP: 
 
 
