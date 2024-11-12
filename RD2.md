@@ -1,22 +1,21 @@
-ENCRYPTED:
-# Anounlcrxw Mxldvnwc
+# Reflection Document
 
-* Marena Oduu Wjvn: Tarbqxw Yrwtrwb
-* Yjacwna Oduu Wjvn: Ljrcurw Kdawb
-* Bcdmnwc RM: 001938622
-
-
-R fjb bdyyxbnm cx unjaw qxf cx vjwrydujcn odwlcrxwb, uxxyb, jwm urbcb cx mnbrpw j yaxpajv cqjc lxdwcb cqn bdv xo mrln.
+* Driver Full Name: Krishon Pinkins
+* Partner Full Name: Caitlin Burns
+* Student ID: 001938622
 
 
-Fn knpjw kh cqrwtrwp xo fjhb cx bxuen cqn ejarxdb bcnyb rw cqn yaxkunv. Jocna, fn knprw fxatrwp xw yxbbrkun fjhb cx mnbrpw xda lxmn.
-Wngc, fn mnorwnm cqn cjbtb cqjc wnnmnm odwlcrxwb.Ujbcuh, fn faxcn cqn lxmn dbrwp ejarxdb odwlcrxwb jwm uxxyb.
+I was supposed to learn how to manipulate functions, loops, and lists to design a program that counts the sum of dice.
 
 
-Rwrcrjuuh, fn ngynarnwlnm bxvn rbbdnb frcq vjwrydujcrwp cqn urbc rwmng cx qxum ejudnb xo 2 jc yxbrcrxw 0.
-Jocna cqrb rbbdn fjb anbxuenm cqn anbducb vjclqnm fqjc fn ngynlcnm. Fn dbnm ejarxdb cnbc ljbnb nwbdarwp xda ejudnb qnum.
+We began by thinking of ways to solve the various steps in the problem. After, we begin working on possible ways to design our code.
+Next, we defined the tasks that needed functions.Lastly, we wrote the code using various functions and loops.
 
-Fn nwlxdwcnanm lqjuunwpnb lxwenacrwp xda rwrcrju lxmn cx j lxmn dcrurirwp odwlcrxwb oxa qrpq unenu cjbtb jwm dwmnabcjwmrwp
-juu cqn fjhb cx vjwrydujcn j urbc. Fn xenaljvn cqnv kh cahrwp lxwlnycb fn twnf fxatnm frcq xcqna ejarjkunb.
-R unjawnm j knccna pajby xo qxf cx fxat frcq odwlcrxwb jwm urbcb. R unjawnm fqjc R fjb bdyyxbnm cx unjaw oxa cqrb ujk.
-R nwsxhnm fxatrwp frcq vh yjacwna.
+
+Initially, we experienced some issues with manipulating the list index to hold values of 2 at position 0.
+After this issue was resolved the results matched what we expected. We used various test cases ensuring our values held.
+
+We encountered challenges converting our initial code to a code utilizing functions for high level tasks and understanding
+all the ways to manipulate a list. We overcame them by trying concepts we knew worked with other variables.
+I learned a better grasp of how to work with functions and lists. I learned what I was supposed to learn for this lab.
+I enjoyed working with my partner.
